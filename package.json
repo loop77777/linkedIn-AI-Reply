@@ -1,6 +1,6 @@
 {
-  "name": "wxt-react-starter",
-  "description": "manifest.json description",
+  "name": "linkedin-ai-reply-extension",
+  "description": "An extension to automate LinkedIn AI replies",
   "private": true,
   "version": "0.0.0",
   "type": "module",
